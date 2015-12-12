@@ -500,7 +500,7 @@ header {
 	.bullet span {
 		position: absolute;
 		margin: -3px 0 0 -35px;
-		opacity: 0.5;
+		opacity: 10;
 		font: 400 18px/28px Roboto Condensed
 	}
 		.bullet span b {
@@ -1334,7 +1334,7 @@ header {
 	}
 	.title0 {
 		font:300 16px/28px Roboto Condensed;
-		color:rgba(255,255,255,0.5);
+		color:rgba(255,255,255,255);
 	}
 	.title1 {
 		font:46px/48px Great Vibes;
