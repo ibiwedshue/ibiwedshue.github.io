@@ -493,6 +493,7 @@ header {
 	height: 26px;
 	margin: 8px 0 0 16px;
 	margin: 5px auto
+	opacity: 10;
 }
 	.bullet i {
 		font-style: normal;
@@ -500,6 +501,7 @@ header {
 	.bullet span {
 		position: absolute;
 		margin: -3px 0 0 -35px;
+		opacity: 10;
 		font: 400 18px/28px Roboto Condensed
 	}
 		.bullet span b {
